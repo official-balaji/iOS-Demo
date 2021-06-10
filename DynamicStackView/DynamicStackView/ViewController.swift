@@ -195,6 +195,8 @@ class ViewController: UIViewController {
                 userInputTextView.attributedText = finalAttributedString
                 indexNumber += 1
                 stackView.insertArrangedSubview(userInputTextView, at: index)
+                let yPointIndex = index*125
+                scrollView.setContentOffset(CGPoint(x: 0, y: yPointIndex), animated: true)
     }
     
     
