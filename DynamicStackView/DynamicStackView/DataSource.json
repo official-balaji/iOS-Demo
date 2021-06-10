@@ -1,0 +1,65 @@
+[
+    {
+                
+                "type": "text",
+                "backgroundColor": "#FFF0F0",
+                "fontSize": "17",
+                "textColor": "#49541d",
+                "source": "This is the paragraph which should have at least 250 character. Use Lorem ipsum for large paragraph"
+    },
+    {
+              
+                "type": "image",
+                "width" : 160,
+                "Height" : 100,
+                "sourceImg": "https://firebasestorage.googleapis.com/v0/b/petfit-5769d.appspot.com/o/ProductsImage%2FFeb252021at801AMimage.png?alt=media&token=a3e2150c-8d8e-42ed-b297-7afa28a12efb"
+    },
+    {
+              
+                "type": "text",
+                "backgroundColor": "#F0FFF0",
+                "fontSize": "17",
+                "textColor": "#de4c2f",
+                "source": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+               
+                "type": "image",
+                "width" : 120,
+                "Height" : 80,
+                "sourceImg": "https://firebasestorage.googleapis.com/v0/b/petfit-5769d.appspot.com/o/ProductsImage%2FFeb252021at801AMimage.png?alt=media&token=a3e2150c-8d8e-42ed-b297-7afa28a12efb"
+    },
+    {
+                
+                "type": "text",
+                "backgroundColor": "#60c3c4",
+                "fontSize": "17",
+                "textColor": "#ea15ed",
+                "source": "This is the paragraph which should have at least 250 character. Use Lorem ipsum for large paragraph"
+    },
+    {
+              
+                "type": "image",
+                "width" : 160,
+                "Height" : 160,
+                "sourceImg": "https://firebasestorage.googleapis.com/v0/b/petfit-5769d.appspot.com/o/ProductsImage%2FFeb252021at801AMimage.png?alt=media&token=a3e2150c-8d8e-42ed-b297-7afa28a12efb"
+    },
+    {
+              
+                "type": "text",
+                "backgroundColor": "#7b5dc2",
+                "fontSize": "17",
+                "textColor": "#eded15",
+                "source": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+               
+                "type": "image",
+                "width" : 160,
+                "Height" : 120,
+                "sourceImg": "https://firebasestorage.googleapis.com/v0/b/petfit-5769d.appspot.com/o/ProductsImage%2FFeb252021at801AMimage.png?alt=media&token=a3e2150c-8d8e-42ed-b297-7afa28a12efb"
+    },
+    
+]
+
+
